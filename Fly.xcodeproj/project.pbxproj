@@ -14,6 +14,7 @@
 		92AD0799271DD9900030D314 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92AD0797271DD9900030D314 /* LaunchScreen.storyboard */; };
 		92AD07A52722643D0030D314 /* FlyBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92AD07A42722643D0030D314 /* FlyBoard.swift */; };
 		92AD07A82722694D0030D314 /* FlyBoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92AD07A72722694D0030D314 /* FlyBoardViewController.swift */; };
+		92F47E0027259965002B5AF6 /* FlyCellButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92F47DFF27259965002B5AF6 /* FlyCellButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		92AD079A271DD9900030D314 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		92AD07A42722643D0030D314 /* FlyBoard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlyBoard.swift; sourceTree = "<group>"; };
 		92AD07A72722694D0030D314 /* FlyBoardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlyBoardViewController.swift; sourceTree = "<group>"; };
+		92F47DFF27259965002B5AF6 /* FlyCellButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlyCellButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 			children = (
 				92AD0790271DD98E0030D314 /* StartViewController.swift */,
 				92AD07A72722694D0030D314 /* FlyBoardViewController.swift */,
+				92F47DFF27259965002B5AF6 /* FlyCellButton.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				92AD0791271DD98E0030D314 /* StartViewController.swift in Sources */,
 				92AD078D271DD98E0030D314 /* AppDelegate.swift in Sources */,
 				92AD078F271DD98E0030D314 /* SceneDelegate.swift in Sources */,
+				92F47E0027259965002B5AF6 /* FlyCellButton.swift in Sources */,
 				92AD07A82722694D0030D314 /* FlyBoardViewController.swift in Sources */,
 				92AD07A52722643D0030D314 /* FlyBoard.swift in Sources */,
 			);
