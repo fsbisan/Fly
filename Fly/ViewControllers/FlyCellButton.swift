@@ -16,7 +16,6 @@ class FlyCellButton: UIButton {
    
     override init(frame: CGRect) {
         super.init(frame: frame)
-
     }
     
     convenience init() {
